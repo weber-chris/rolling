@@ -16,3 +16,12 @@ canvas {
     background-color: white;
     cursor: pointer;
 }
+
+#scoreLabel {
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
